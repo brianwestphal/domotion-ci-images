@@ -1,0 +1,922 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-03T06:25:29.373Z",
+  "sourceRevision": "465971ebc9e7b48be2ee76ac07053cbed66c9045",
+  "platform": "darwin",
+  "environmentFingerprint": {
+    "image": "macos26-arm64",
+    "imageVersion": "20260728.0273.1",
+    "osRelease": "25.5.0",
+    "chromium": "147.0.7727.15",
+    "platform": "darwin",
+    "arch": "arm64",
+    "node": "v22.21.0",
+    "corpusIdentity": "parity-corpus-v2:b7dbd02956ea90258b9dfa294403bdd9bc52ca1c3a3cb5187301fe9166243b67",
+    "fontInventory": {
+      "digest": "a8a5b567b046c5c5",
+      "count": 370,
+      "entries": [
+        "ADTNumeric.ttc",
+        "Academy Engraved LET Fonts.ttf",
+        "Al Nile.ttc",
+        "Al Tarikh.ttc",
+        "AlBayan.ttc",
+        "AmericanTypewriter.ttc",
+        "Andale Mono.ttf",
+        "Apple Braille Outline 6 Dot.ttf",
+        "Apple Braille Outline 8 Dot.ttf",
+        "Apple Braille Pinpoint 6 Dot.ttf",
+        "Apple Braille Pinpoint 8 Dot.ttf",
+        "Apple Braille.ttf",
+        "Apple Chancery.ttf",
+        "Apple Color Emoji.ttc",
+        "Apple Symbols.ttf",
+        "AppleGothic.ttf",
+        "AppleMyungjo.ttf",
+        "AppleSDGothicNeo.ttc",
+        "AquaKana.ttc",
+        "Arial Black.ttf",
+        "Arial Bold Italic.ttf",
+        "Arial Bold.ttf",
+        "Arial Italic.ttf",
+        "Arial Narrow Bold Italic.ttf",
+        "Arial Narrow Bold.ttf",
+        "Arial Narrow Italic.ttf",
+        "Arial Narrow.ttf",
+        "Arial Rounded Bold.ttf",
+        "Arial Unicode.ttf",
+        "Arial.ttf",
+        "ArialHB.ttc",
+        "Athelas.ttc",
+        "Avenir Next Condensed.ttc",
+        "Avenir Next.ttc",
+        "Avenir.ttc",
+        "Ayuthaya.ttf",
+        "Baghdad.ttc",
+        "Bangla MN.ttc",
+        "Bangla Sangam MN.ttc",
+        "Baskerville.ttc",
+        "Beirut.ttc",
+        "BigCaslon.ttf",
+        "Bodoni 72 OS.ttc",
+        "Bodoni 72 Smallcaps Book.ttf",
+        "Bodoni 72.ttc",
+        "Bodoni Ornaments.ttf",
+        "Bradley Hand Bold.ttf",
+        "Brush Script.ttf",
+        "CJKSymbolsFallback.ttc",
+        "Chalkboard.ttc",
+        "ChalkboardSE.ttc",
+        "Chalkduster.ttf",
+        "Charter.ttc",
+        "Cochin.ttc",
+        "Comic Sans MS Bold.ttf",
+        "Comic Sans MS.ttf",
+        "Copperplate.ttc",
+        "Corsiva.ttc",
+        "Courier New Bold Italic.ttf",
+        "Courier New Bold.ttf",
+        "Courier New Italic.ttf",
+        "Courier New.ttf",
+        "Courier.ttc",
+        "DIN Alternate Bold.ttf",
+        "DIN Condensed Bold.ttf",
+        "Damascus.ttc",
+        "DecoTypeNaskh.ttc",
+        "DecoTypeNastaleeqUrdu.ttc",
+        "Devanagari Sangam MN.ttc",
+        "DevanagariMT.ttc",
+        "Didot.ttc",
+        "Diwan Kufi.ttc",
+        "Diwan Thuluth.ttf",
+        "EuphemiaCAS.ttc",
+        "Farah.ttc",
+        "Farisi.ttf",
+        "Futura.ttc",
+        "Galvji.ttc",
+        "GeezaPro.ttc",
+        "Geneva.ttf",
+        "Georgia Bold Italic.ttf",
+        "Georgia Bold.ttf",
+        "Georgia Italic.ttf",
+        "Georgia.ttf",
+        "GillSans.ttc",
+        "Gujarati Sangam MN.ttc",
+        "GujaratiMT.ttc",
+        "Gurmukhi MN.ttc",
+        "Gurmukhi Sangam MN.ttc",
+        "Gurmukhi.ttf",
+        "Helvetica.ttc",
+        "HelveticaNeue.ttc",
+        "Herculanum.ttf",
+        "Hiragino Sans GB.ttc",
+        "Hoefler Text Ornaments.ttf",
+        "Hoefler Text.ttc",
+        "ITFDevanagari.ttc",
+        "Impact.ttf",
+        "InaiMathi-MN.ttc",
+        "Iowan Old Style.ttc",
+        "Kailasa.ttc",
+        "Kannada MN.ttc",
+        "Kannada Sangam MN.ttc",
+        "KefaIII.ttf",
+        "Keyboard.ttf",
+        "Khmer MN.ttc",
+        "Khmer Sangam MN.ttf",
+        "Kohinoor.ttc",
+        "KohinoorBangla.ttc",
+        "KohinoorGujarati.ttc",
+        "KohinoorTelugu.ttc",
+        "Kokonor.ttf",
+        "Krungthep.ttf",
+        "KufiStandardGK.ttc",
+        "Lao MN.ttc",
+        "Lao Sangam MN.ttf",
+        "LastResort.otf",
+        "LucidaGrande.ttc",
+        "Luminari.ttf",
+        "Malayalam MN.ttc",
+        "Malayalam Sangam MN.ttc",
+        "Marion.ttc",
+        "MarkerFelt.ttc",
+        "Menlo.ttc",
+        "Microsoft Sans Serif.ttf",
+        "Mishafi Gold.ttf",
+        "Mishafi.ttf",
+        "Monaco.ttf",
+        "Mshtakan.ttc",
+        "MuktaMahee.ttc",
+        "Muna.ttc",
+        "Myanmar MN.ttc",
+        "Myanmar Sangam MN.ttc",
+        "NISC18030.ttf",
+        "Nadeem.ttc",
+        "NewPeninimMT.ttc",
+        "NewYork.ttf",
+        "NewYorkItalic.ttf",
+        "Noteworthy.ttc",
+        "NotoNastaliq.ttc",
+        "NotoSansAdlam-Regular.ttf",
+        "NotoSansArmenian.ttc",
+        "NotoSansAvestan-Regular.ttf",
+        "NotoSansBamum-Regular.ttf",
+        "NotoSansBassaVah-Regular.ttf",
+        "NotoSansBatak-Regular.ttf",
+        "NotoSansBhaiksuki-Regular.ttf",
+        "NotoSansBrahmi-Regular.ttf",
+        "NotoSansBuginese-Regular.ttf",
+        "NotoSansBuhid-Regular.ttf",
+        "NotoSansCanadianAboriginal-Regular.otf",
+        "NotoSansCarian-Regular.ttf",
+        "NotoSansCaucasianAlbanian-Regular.ttf",
+        "NotoSansChakma-Regular.ttf",
+        "NotoSansCham-Regular.ttf",
+        "NotoSansCoptic-Regular.ttf",
+        "NotoSansCuneiform-Regular.ttf",
+        "NotoSansCypriot-Regular.ttf",
+        "NotoSansDuployan-Regular.ttf",
+        "NotoSansEgyptianHieroglyphs-Regular.ttf",
+        "NotoSansElbasan-Regular.ttf",
+        "NotoSansGlagolitic-Regular.ttf",
+        "NotoSansGothic-Regular.ttf",
+        "NotoSansGunjalaGondi-Regular.otf",
+        "NotoSansHanifiRohingya-Regular.ttf",
+        "NotoSansHanunoo-Regular.ttf",
+        "NotoSansHatran-Regular.ttf",
+        "NotoSansImperialAramaic-Regular.ttf",
+        "NotoSansInscriptionalPahlavi-Regular.ttf",
+        "NotoSansInscriptionalParthian-Regular.ttf",
+        "NotoSansJavanese-Regular.otf",
+        "NotoSansKaithi-Regular.ttf",
+        "NotoSansKannada.ttc",
+        "NotoSansKayahLi-Regular.ttf",
+        "NotoSansKharoshthi-Regular.ttf",
+        "NotoSansKhojki-Regular.ttf",
+        "NotoSansKhudawadi-Regular.ttf",
+        "NotoSansLepcha-Regular.ttf",
+        "NotoSansLimbu-Regular.ttf",
+        "NotoSansLinearA-Regular.ttf",
+        "NotoSansLinearB-Regular.ttf",
+        "NotoSansLisu-Regular.ttf",
+        "NotoSansLycian-Regular.ttf",
+        "NotoSansLydian-Regular.ttf",
+        "NotoSansMahajani-Regular.ttf",
+        "NotoSansMandaic-Regular.ttf",
+        "NotoSansManichaean-Regular.ttf",
+        "NotoSansMarchen-Regular.ttf",
+        "NotoSansMasaramGondi-Regular.otf",
+        "NotoSansMeeteiMayek-Regular.ttf",
+        "NotoSansMendeKikakui-Regular.ttf",
+        "NotoSansMeroitic-Regular.ttf",
+        "NotoSansMiao-Regular.ttf",
+        "NotoSansModi-Regular.ttf",
+        "NotoSansMongolian-Regular.ttf",
+        "NotoSansMro-Regular.ttf",
+        "NotoSansMultani-Regular.ttf",
+        "NotoSansMyanmar.ttc",
+        "NotoSansNKo-Regular.ttf",
+        "NotoSansNabataean-Regular.ttf",
+        "NotoSansNagMundari-Regular.ttf",
+        "NotoSansNewTaiLue-Regular.ttf",
+        "NotoSansNewa-Regular.ttf",
+        "NotoSansOlChiki-Regular.ttf",
+        "NotoSansOldHungarian-Regular.ttf",
+        "NotoSansOldItalic-Regular.ttf",
+        "NotoSansOldNorthArabian-Regular.ttf",
+        "NotoSansOldPermic-Regular.ttf",
+        "NotoSansOldPersian-Regular.ttf",
+        "NotoSansOldSouthArabian-Regular.ttf",
+        "NotoSansOldTurkic-Regular.ttf",
+        "NotoSansOriya.ttc",
+        "NotoSansOsage-Regular.ttf",
+        "NotoSansOsmanya-Regular.ttf",
+        "NotoSansPahawhHmong-Regular.ttf",
+        "NotoSansPalmyrene-Regular.ttf",
+        "NotoSansPauCinHau-Regular.ttf",
+        "NotoSansPhagsPa-Regular.ttf",
+        "NotoSansPhoenician-Regular.ttf",
+        "NotoSansPsalterPahlavi-Regular.ttf",
+        "NotoSansRejang-Regular.ttf",
+        "NotoSansSamaritan-Regular.ttf",
+        "NotoSansSaurashtra-Regular.ttf",
+        "NotoSansSharada-Regular.ttf",
+        "NotoSansSiddham-Regular.otf",
+        "NotoSansSoraSompeng-Regular.ttf",
+        "NotoSansSundanese-Regular.ttf",
+        "NotoSansSylotiNagri-Regular.ttf",
+        "NotoSansSyriac-Regular.ttf",
+        "NotoSansTagalog-Regular.ttf",
+        "NotoSansTagbanwa-Regular.ttf",
+        "NotoSansTaiLe-Regular.ttf",
+        "NotoSansTaiTham-Regular.ttf",
+        "NotoSansTaiViet-Regular.ttf",
+        "NotoSansTakri-Regular.ttf",
+        "NotoSansThaana-Regular.ttf",
+        "NotoSansTifinagh-Regular.otf",
+        "NotoSansTirhuta-Regular.ttf",
+        "NotoSansUgaritic-Regular.ttf",
+        "NotoSansVai-Regular.ttf",
+        "NotoSansWancho-Regular.ttf",
+        "NotoSansWarangCiti-Regular.ttf",
+        "NotoSansYi-Regular.ttf",
+        "NotoSerifAhom-Regular.ttf",
+        "NotoSerifBalinese-Regular.ttf",
+        "NotoSerifMyanmar.ttc",
+        "NotoSerifNyiakengPuachueHmong-Regular.ttf",
+        "NotoSerifYezidi-Regular.otf",
+        "Optima.ttc",
+        "Oriya MN.ttc",
+        "Oriya Sangam MN.ttc",
+        "PTMono.ttc",
+        "PTSans.ttc",
+        "PTSerif.ttc",
+        "PTSerifCaption.ttc",
+        "Palatino.ttc",
+        "Papyrus.ttc",
+        "PartyLET-plain.ttf",
+        "Phosphate.ttc",
+        "PlantagenetCherokee.ttf",
+        "Raanana.ttc",
+        "Rockwell.ttc",
+        "SFArabic.ttf",
+        "SFArabicRounded.ttf",
+        "SFArmenian.ttf",
+        "SFArmenianRounded.ttf",
+        "SFCamera.ttf",
+        "SFCompact.ttf",
+        "SFCompactItalic.ttf",
+        "SFCompactRounded.ttf",
+        "SFGeorgian.ttf",
+        "SFGeorgianRounded.ttf",
+        "SFHebrew.ttf",
+        "SFHebrewRounded.ttf",
+        "SFIndia.ttc",
+        "SFNS.ttf",
+        "SFNSItalic.ttf",
+        "SFNSMono.ttf",
+        "SFNSMonoItalic.ttf",
+        "SFNSRounded.ttf",
+        "STHeiti Light.ttc",
+        "STHeiti Medium.ttc",
+        "STIXGeneral.otf",
+        "STIXGeneralBol.otf",
+        "STIXGeneralBolIta.otf",
+        "STIXGeneralItalic.otf",
+        "STIXIntDBol.otf",
+        "STIXIntDReg.otf",
+        "STIXIntSmBol.otf",
+        "STIXIntSmReg.otf",
+        "STIXIntUpBol.otf",
+        "STIXIntUpDBol.otf",
+        "STIXIntUpDReg.otf",
+        "STIXIntUpReg.otf",
+        "STIXIntUpSmBol.otf",
+        "STIXIntUpSmReg.otf",
+        "STIXNonUni.otf",
+        "STIXNonUniBol.otf",
+        "STIXNonUniBolIta.otf",
+        "STIXNonUniIta.otf",
+        "STIXSizFiveSymReg.otf",
+        "STIXSizFourSymBol.otf",
+        "STIXSizFourSymReg.otf",
+        "STIXSizOneSymBol.otf",
+        "STIXSizOneSymReg.otf",
+        "STIXSizThreeSymBol.otf",
+        "STIXSizThreeSymReg.otf",
+        "STIXSizTwoSymBol.otf",
+        "STIXSizTwoSymReg.otf",
+        "STIXTwoMath.otf",
+        "STIXTwoText-Italic.ttf",
+        "STIXTwoText.ttf",
+        "STIXVar.otf",
+        "STIXVarBol.otf",
+        "Sana.ttc",
+        "Sathu.ttf",
+        "Savoye LET.ttc",
+        "Seravek.ttc",
+        "Shree714.ttc",
+        "SignPainter.ttc",
+        "Silom.ttf",
+        "Sinhala MN.ttc",
+        "Sinhala Sangam MN.ttc",
+        "Skia.ttf",
+        "SnellRoundhand.ttc",
+        "Songti.ttc",
+        "SukhumvitSet.ttc",
+        "SuperClarendon.ttc",
+        "Symbol.ttf",
+        "Tahoma Bold.ttf",
+        "Tahoma.ttf",
+        "Tamil MN.ttc",
+        "Tamil Sangam MN.ttc",
+        "Telugu MN.ttc",
+        "Telugu Sangam MN.ttc",
+        "Thonburi.ttc",
+        "ThonburiUI.ttc",
+        "Times New Roman Bold Italic.ttf",
+        "Times New Roman Bold.ttf",
+        "Times New Roman Italic.ttf",
+        "Times New Roman.ttf",
+        "Times.ttc",
+        "Trattatello.ttf",
+        "Trebuchet MS Bold Italic.ttf",
+        "Trebuchet MS Bold.ttf",
+        "Trebuchet MS Italic.ttf",
+        "Trebuchet MS.ttf",
+        "Verdana Bold Italic.ttf",
+        "Verdana Bold.ttf",
+        "Verdana Italic.ttf",
+        "Verdana.ttf",
+        "Waseem.ttc",
+        "Webdings.ttf",
+        "Wingdings 2.ttf",
+        "Wingdings 3.ttf",
+        "Wingdings.ttf",
+        "ZapfDingbats.ttf",
+        "Zapfino.ttf",
+        "ヒラギノ丸ゴ ProN W4.ttc",
+        "ヒラギノ明朝 ProN.ttc",
+        "ヒラギノ角ゴシック W0.ttc",
+        "ヒラギノ角ゴシック W1.ttc",
+        "ヒラギノ角ゴシック W2.ttc",
+        "ヒラギノ角ゴシック W3.ttc",
+        "ヒラギノ角ゴシック W4.ttc",
+        "ヒラギノ角ゴシック W5.ttc",
+        "ヒラギノ角ゴシック W6.ttc",
+        "ヒラギノ角ゴシック W7.ttc",
+        "ヒラギノ角ゴシック W8.ttc",
+        "ヒラギノ角ゴシック W9.ttc"
+      ]
+    },
+    "fingerprint": "367055d851babf8a54001df575257691e0668c8f42118b1b027d3feb62db71a3"
+  },
+  "reports": [
+    {
+      "area": "font-selection",
+      "oracle": "tools/unified-shaping-oracle.ts + tools/renderer-font-route-oracle.ts",
+      "status": "failed",
+      "totalRows": 631,
+      "reportFile": "font-selection.json"
+    },
+    {
+      "area": "generic-profile-target-authority",
+      "oracle": "tools/generic-profile-target-oracle.ts",
+      "status": "missing",
+      "note": "No stage report was attached by this run."
+    },
+    {
+      "area": "unicode-decisions",
+      "oracle": "tools/icu-conformance.ts",
+      "status": "missing",
+      "note": "No stage report was attached by this run."
+    },
+    {
+      "area": "shaping-clusters-glyphs",
+      "oracle": "tools/unified-shaping-oracle.ts",
+      "status": "failed",
+      "totalRows": 631,
+      "reportFile": "shaping-clusters-glyphs.json"
+    },
+    {
+      "area": "text-layout-placement",
+      "oracle": "tools/layout-stage-oracle.ts",
+      "status": "failed",
+      "totalRows": 56,
+      "reportFile": "text-layout-placement.json"
+    },
+    {
+      "area": "paths-native-raster-floor",
+      "oracle": "tools/paths-native-raster-gate.ts",
+      "status": "missing",
+      "note": "No stage report was attached by this run."
+    },
+    {
+      "area": "macos-sfns-mask-baseline",
+      "oracle": "tools/sfns-mask-baseline-oracle.ts",
+      "status": "missing",
+      "note": "No stage report was attached by this run."
+    },
+    {
+      "area": "text-decoration",
+      "oracle": "tools/decoration-oracle.ts",
+      "status": "passed",
+      "reportFile": "text-decoration.json"
+    },
+    {
+      "area": "borders-outlines",
+      "oracle": "tools/border-phase-oracle.ts",
+      "status": "passed",
+      "reportFile": "borders-outlines.json"
+    },
+    {
+      "area": "gradients-masks-clips",
+      "oracle": "tools/paint-geometry-oracle.ts",
+      "status": "passed",
+      "passedRows": 119,
+      "totalRows": 119,
+      "reportFile": "gradients-masks-clips.json"
+    },
+    {
+      "area": "url-background-image-geometry",
+      "oracle": "tools/url-background-geometry-audit.ts",
+      "status": "missing",
+      "note": "No stage report was attached by this run."
+    },
+    {
+      "area": "background-clip-text-paint",
+      "oracle": "tools/background-clip-text-oracle.ts",
+      "status": "missing",
+      "note": "No stage report was attached by this run."
+    },
+    {
+      "area": "native-scrollbar-layout-paint-ownership",
+      "oracle": "tools/native-scrollbar-ownership-audit.ts",
+      "status": "missing",
+      "note": "No stage report was attached by this run."
+    },
+    {
+      "area": "transforms-projection-reflection",
+      "oracle": "tools/transform-geometry-oracle.ts",
+      "status": "passed",
+      "passedRows": 11,
+      "totalRows": 11,
+      "reportFile": "transforms-projection-reflection.json"
+    },
+    {
+      "area": "animated-projective-frame-state",
+      "oracle": "tools/animated-projective-frame-oracle.ts",
+      "status": "missing",
+      "note": "No stage report was attached by this run."
+    },
+    {
+      "area": "animated-viewbox-culling",
+      "oracle": "tools/animated-culling-geometry-oracle.ts",
+      "status": "missing",
+      "note": "No stage report was attached by this run."
+    },
+    {
+      "area": "compositing-effects-paint-order",
+      "oracle": "tools/paint-order-oracle.ts",
+      "status": "passed",
+      "passedRows": 41,
+      "totalRows": 41,
+      "reportFile": "compositing-effects-paint-order.json"
+    },
+    {
+      "area": "replaced-elements-controls-generated-content",
+      "oracle": "tools/replaced-geometry-oracle.ts",
+      "status": "passed",
+      "reportFile": "replaced-elements-controls-generated-content.json"
+    },
+    {
+      "area": "raster-fallback-boundary",
+      "oracle": "tools/raster-boundary-oracle.ts",
+      "status": "failed",
+      "passedRows": 27,
+      "totalRows": 28,
+      "reportFile": "raster-fallback-boundary.json"
+    },
+    {
+      "area": "end-to-end-visual-integration",
+      "oracle": "src/review/compare-pngs.ts",
+      "status": "missing",
+      "note": "No stage report was attached by this run."
+    }
+  ],
+  "rules": [
+    {
+      "suites": [
+        "features"
+      ],
+      "fixture": "text-system-ui-cjk-fallback",
+      "transitionIds": [
+        "text.family-fallback"
+      ],
+      "areas": [
+        "font-selection",
+        "shaping-clusters-glyphs"
+      ]
+    },
+    {
+      "suites": [
+        "html-test",
+        "html-test-unicode"
+      ],
+      "transitionIds": [
+        "text.family-fallback"
+      ],
+      "areas": [
+        "font-selection",
+        "shaping-clusters-glyphs"
+      ]
+    },
+    {
+      "suites": [
+        "features"
+      ],
+      "fixture": "text-font-variant-emoji",
+      "transitionIds": [
+        "text.emoji-presentation"
+      ],
+      "areas": [
+        "font-selection",
+        "shaping-clusters-glyphs",
+        "raster-fallback-boundary"
+      ]
+    },
+    {
+      "suites": [
+        "features"
+      ],
+      "fixture": "text-rtl-in-ltr-line",
+      "transitionIds": [
+        "text.bidi-runs"
+      ],
+      "areas": [
+        "shaping-clusters-glyphs",
+        "text-layout-placement"
+      ]
+    },
+    {
+      "suites": [
+        "features"
+      ],
+      "fixture": "text-multiline",
+      "transitionIds": [
+        "text.wrapping-fragmentation"
+      ],
+      "areas": [
+        "text-layout-placement"
+      ]
+    },
+    {
+      "suites": [
+        "features"
+      ],
+      "fixture": "text-decorations",
+      "transitionIds": [
+        "text.decoration"
+      ],
+      "areas": [
+        "text-decoration"
+      ]
+    },
+    {
+      "suites": [
+        "features"
+      ],
+      "fixture": "border-styles-variants",
+      "transitionIds": [
+        "box.border-outline"
+      ],
+      "areas": [
+        "borders-outlines"
+      ]
+    },
+    {
+      "suites": [
+        "features"
+      ],
+      "fixture": "gradient-radial-negative-domain",
+      "transitionIds": [
+        "paint.gradients"
+      ],
+      "areas": [
+        "gradients-masks-clips",
+        "raster-fallback-boundary"
+      ]
+    },
+    {
+      "suites": [
+        "features"
+      ],
+      "fixture": "bg-conic-chromium-zoom-tile",
+      "transitionIds": [
+        "paint.gradients",
+        "raster.boundary-content"
+      ],
+      "areas": [
+        "end-to-end-visual-integration",
+        "gradients-masks-clips",
+        "raster-fallback-boundary"
+      ]
+    },
+    {
+      "suites": [
+        "features"
+      ],
+      "fixture": "mask-advanced-tiling-composite",
+      "transitionIds": [
+        "paint.masks-clips"
+      ],
+      "areas": [
+        "gradients-masks-clips"
+      ]
+    },
+    {
+      "suites": [
+        "features"
+      ],
+      "fixture": "clip-path-userspaceonuse-fragment",
+      "transitionIds": [
+        "paint.masks-clips"
+      ],
+      "areas": [
+        "gradients-masks-clips"
+      ]
+    },
+    {
+      "suites": [
+        "features"
+      ],
+      "fixture": "iframe-inner-clip-mask",
+      "transitionIds": [
+        "frames.iframe-recursion",
+        "paint.masks-clips"
+      ],
+      "areas": [
+        "gradients-masks-clips",
+        "raster-fallback-boundary",
+        "replaced-elements-controls-generated-content"
+      ]
+    },
+    {
+      "suites": [
+        "features"
+      ],
+      "fixture": "url-background-fragment-slice-continuation",
+      "transitionIds": [
+        "paint.url-background-image-geometry"
+      ],
+      "areas": [
+        "url-background-image-geometry"
+      ]
+    },
+    {
+      "suites": [
+        "features"
+      ],
+      "fixture": "background-clip-text-url-color-stack",
+      "transitionIds": [
+        "paint.background-clip-text"
+      ],
+      "areas": [
+        "background-clip-text-paint",
+        "url-background-image-geometry"
+      ]
+    },
+    {
+      "suites": [
+        "features"
+      ],
+      "fixture": "background-clip-text-url-inherited-stroke",
+      "transitionIds": [
+        "paint.background-clip-text"
+      ],
+      "areas": [
+        "background-clip-text-paint",
+        "url-background-image-geometry"
+      ]
+    },
+    {
+      "suites": [
+        "features"
+      ],
+      "fixture": "transform-scale-flex-descendants",
+      "transitionIds": [
+        "geometry.transforms"
+      ],
+      "areas": [
+        "transforms-projection-reflection",
+        "animated-projective-frame-state",
+        "animated-viewbox-culling",
+        "raster-fallback-boundary"
+      ]
+    },
+    {
+      "suites": [
+        "features"
+      ],
+      "fixture": "preserve-3d-translatez-paint-order",
+      "transitionIds": [
+        "geometry.transforms"
+      ],
+      "areas": [
+        "transforms-projection-reflection",
+        "animated-projective-frame-state",
+        "animated-viewbox-culling",
+        "raster-fallback-boundary"
+      ]
+    },
+    {
+      "suites": [
+        "features"
+      ],
+      "fixture": "perspective-fixed-containing-block-ownership",
+      "transitionIds": [
+        "geometry.transforms"
+      ],
+      "areas": [
+        "transforms-projection-reflection",
+        "animated-projective-frame-state",
+        "animated-viewbox-culling",
+        "raster-fallback-boundary"
+      ]
+    },
+    {
+      "suites": [
+        "features"
+      ],
+      "fixture": "z-index-order",
+      "transitionIds": [
+        "paint.stacking-compositing"
+      ],
+      "areas": [
+        "compositing-effects-paint-order"
+      ]
+    },
+    {
+      "suites": [
+        "features"
+      ],
+      "fixture": "filter-passthrough",
+      "transitionIds": [
+        "paint.stacking-compositing"
+      ],
+      "areas": [
+        "compositing-effects-paint-order"
+      ]
+    },
+    {
+      "suites": [
+        "features"
+      ],
+      "fixture": "blend-mode-passthrough",
+      "transitionIds": [
+        "paint.stacking-compositing"
+      ],
+      "areas": [
+        "compositing-effects-paint-order"
+      ]
+    },
+    {
+      "suites": [
+        "features"
+      ],
+      "fixture": "pseudo-after-badge",
+      "transitionIds": [
+        "generated.pseudo-fragment-geometry"
+      ],
+      "areas": [
+        "replaced-elements-controls-generated-content"
+      ]
+    },
+    {
+      "suites": [
+        "features"
+      ],
+      "fixture": "pseudo-before-marker-child-first-content",
+      "transitionIds": [
+        "generated.pseudo-fragment-geometry"
+      ],
+      "areas": [
+        "replaced-elements-controls-generated-content"
+      ]
+    },
+    {
+      "suites": [
+        "features"
+      ],
+      "fixture": "pseudo-after-down-caret-vertical-align",
+      "transitionIds": [
+        "generated.pseudo-fragment-geometry"
+      ],
+      "areas": [
+        "replaced-elements-controls-generated-content"
+      ]
+    },
+    {
+      "suites": [
+        "features"
+      ],
+      "fixture": "image-concrete-object-fit-position",
+      "transitionIds": [
+        "replaced.object-sizing"
+      ],
+      "areas": [
+        "replaced-elements-controls-generated-content",
+        "raster-fallback-boundary"
+      ]
+    },
+    {
+      "suites": [
+        "features"
+      ],
+      "fixture": "replaced-canvas-transformed-clip",
+      "transitionIds": [
+        "replaced.object-sizing"
+      ],
+      "areas": [
+        "replaced-elements-controls-generated-content",
+        "raster-fallback-boundary"
+      ]
+    },
+    {
+      "suites": [
+        "features"
+      ],
+      "fixture": "form-controls",
+      "transitionIds": [
+        "controls.native-ownership",
+        "controls.sampled-native-fallback-retirement"
+      ],
+      "areas": [
+        "native-scrollbar-layout-paint-ownership",
+        "raster-fallback-boundary",
+        "replaced-elements-controls-generated-content"
+      ]
+    },
+    {
+      "suites": [
+        "features"
+      ],
+      "fixture": "replaced-iframe-same-origin",
+      "transitionIds": [
+        "frames.iframe-recursion"
+      ],
+      "areas": [
+        "replaced-elements-controls-generated-content",
+        "raster-fallback-boundary"
+      ]
+    },
+    {
+      "suites": [
+        "features"
+      ],
+      "fixture": "inline-svg-effect-geometry-boxes",
+      "transitionIds": [
+        "svg.effect-reference-boxes",
+        "svg.inline-3d-transform-ownership"
+      ],
+      "areas": [
+        "gradients-masks-clips",
+        "raster-fallback-boundary",
+        "transforms-projection-reflection"
+      ]
+    },
+    {
+      "suites": [
+        "features"
+      ],
+      "fixture": "replaced-canvas-overlay",
+      "transitionIds": [
+        "raster.boundary-activation",
+        "raster.boundary-content"
+      ],
+      "areas": [
+        "end-to-end-visual-integration",
+        "raster-fallback-boundary"
+      ]
+    }
+  ]
+}
