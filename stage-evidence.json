@@ -1,0 +1,699 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-03T06:04:01.455Z",
+  "sourceRevision": "465971ebc9e7b48be2ee76ac07053cbed66c9045",
+  "platform": "win32",
+  "environmentFingerprint": {
+    "image": "win25-vs2026-x64",
+    "imageVersion": "20260824.214.3",
+    "osRelease": "10.0.26100",
+    "chromium": "147.0.7727.15",
+    "platform": "win32",
+    "arch": "x64",
+    "node": "v22.21.0",
+    "corpusIdentity": "parity-corpus-v2:b7dbd02956ea90258b9dfa294403bdd9bc52ca1c3a3cb5187301fe9166243b67",
+    "fontInventory": {
+      "digest": "c379b2deaaab30c2",
+      "count": 147,
+      "entries": [
+        "Candara.ttf",
+        "Candarab.ttf",
+        "Candarai.ttf",
+        "Candaral.ttf",
+        "Candarali.ttf",
+        "Candaraz.ttf",
+        "CascadiaCode.ttf",
+        "CascadiaMono.ttf",
+        "Gabriola.ttf",
+        "Inkfree.ttf",
+        "LeelUIsl.ttf",
+        "LeelaUIb.ttf",
+        "LeelawUI.ttf",
+        "Nirmala.ttc",
+        "SansSerifCollection.ttf",
+        "SegUIVar.ttf",
+        "SegoeIcons.ttf",
+        "SimsunExtG.ttf",
+        "SitkaVF-Italic.ttf",
+        "SitkaVF.ttf",
+        "YuGothB.ttc",
+        "YuGothL.ttc",
+        "YuGothM.ttc",
+        "YuGothR.ttc",
+        "arial.ttf",
+        "arialbd.ttf",
+        "arialbi.ttf",
+        "ariali.ttf",
+        "ariblk.ttf",
+        "bahnschrift.ttf",
+        "calibri.ttf",
+        "calibrib.ttf",
+        "calibrii.ttf",
+        "calibril.ttf",
+        "calibrili.ttf",
+        "calibriz.ttf",
+        "cambria.ttc",
+        "cambriab.ttf",
+        "cambriai.ttf",
+        "cambriaz.ttf",
+        "comic.ttf",
+        "comicbd.ttf",
+        "comici.ttf",
+        "comicz.ttf",
+        "consola.ttf",
+        "consolab.ttf",
+        "consolai.ttf",
+        "consolaz.ttf",
+        "constan.ttf",
+        "constanb.ttf",
+        "constani.ttf",
+        "constanz.ttf",
+        "corbel.ttf",
+        "corbelb.ttf",
+        "corbeli.ttf",
+        "corbell.ttf",
+        "corbelli.ttf",
+        "corbelz.ttf",
+        "cour.ttf",
+        "courbd.ttf",
+        "courbi.ttf",
+        "couri.ttf",
+        "ebrima.ttf",
+        "ebrimabd.ttf",
+        "framd.ttf",
+        "framdit.ttf",
+        "gadugi.ttf",
+        "gadugib.ttf",
+        "georgia.ttf",
+        "georgiab.ttf",
+        "georgiai.ttf",
+        "georgiaz.ttf",
+        "gulim.ttc",
+        "himalaya.ttf",
+        "impact.ttf",
+        "javatext.ttf",
+        "l_10646.ttf",
+        "lucon.ttf",
+        "malgun.ttf",
+        "malgunbd.ttf",
+        "malgunsl.ttf",
+        "marlett.ttf",
+        "micross.ttf",
+        "mingliu.ttc",
+        "mingliub.ttc",
+        "mmrtext.ttf",
+        "mmrtextb.ttf",
+        "monbaiti.ttf",
+        "msgothic.ttc",
+        "msjh.ttc",
+        "msjhbd.ttc",
+        "msjhl.ttc",
+        "msyh.ttc",
+        "msyhbd.ttc",
+        "msyhl.ttc",
+        "msyi.ttf",
+        "mvboli.ttf",
+        "ntailu.ttf",
+        "ntailub.ttf",
+        "pala.ttf",
+        "palab.ttf",
+        "palabi.ttf",
+        "palai.ttf",
+        "phagspa.ttf",
+        "phagspab.ttf",
+        "segmdl2.ttf",
+        "segoepr.ttf",
+        "segoeprb.ttf",
+        "segoesc.ttf",
+        "segoescb.ttf",
+        "segoeui.ttf",
+        "segoeuib.ttf",
+        "segoeuii.ttf",
+        "segoeuil.ttf",
+        "segoeuisl.ttf",
+        "segoeuiz.ttf",
+        "seguibl.ttf",
+        "seguibli.ttf",
+        "seguiemj.ttf",
+        "seguihis.ttf",
+        "seguili.ttf",
+        "seguisb.ttf",
+        "seguisbi.ttf",
+        "seguisli.ttf",
+        "seguisym.ttf",
+        "simsun.ttc",
+        "simsunb.ttf",
+        "sylfaen.ttf",
+        "symbol.ttf",
+        "tahoma.ttf",
+        "tahomabd.ttf",
+        "taile.ttf",
+        "taileb.ttf",
+        "times.ttf",
+        "timesbd.ttf",
+        "timesbi.ttf",
+        "timesi.ttf",
+        "trebuc.ttf",
+        "trebucbd.ttf",
+        "trebucbi.ttf",
+        "trebucit.ttf",
+        "verdana.ttf",
+        "verdanab.ttf",
+        "verdanai.ttf",
+        "verdanaz.ttf",
+        "webdings.ttf",
+        "wingding.ttf"
+      ]
+    },
+    "fingerprint": "c52dffeaeb64428be65ed7099efb47c861fe2f7a41a6da4cbdd11008ef9e6970"
+  },
+  "reports": [
+    {
+      "area": "font-selection",
+      "oracle": "tools/unified-shaping-oracle.ts + tools/renderer-font-route-oracle.ts",
+      "status": "failed",
+      "totalRows": 660,
+      "reportFile": "font-selection.json"
+    },
+    {
+      "area": "generic-profile-target-authority",
+      "oracle": "tools/generic-profile-target-oracle.ts",
+      "status": "missing",
+      "note": "No stage report was attached by this run."
+    },
+    {
+      "area": "unicode-decisions",
+      "oracle": "tools/icu-conformance.ts",
+      "status": "missing",
+      "note": "No stage report was attached by this run."
+    },
+    {
+      "area": "shaping-clusters-glyphs",
+      "oracle": "tools/unified-shaping-oracle.ts",
+      "status": "failed",
+      "totalRows": 660,
+      "reportFile": "shaping-clusters-glyphs.json"
+    },
+    {
+      "area": "text-layout-placement",
+      "oracle": "tools/layout-stage-oracle.ts",
+      "status": "failed",
+      "totalRows": 56,
+      "reportFile": "text-layout-placement.json"
+    },
+    {
+      "area": "paths-native-raster-floor",
+      "oracle": "tools/paths-native-raster-gate.ts",
+      "status": "missing",
+      "note": "No stage report was attached by this run."
+    },
+    {
+      "area": "macos-sfns-mask-baseline",
+      "oracle": "tools/sfns-mask-baseline-oracle.ts",
+      "status": "missing",
+      "note": "No stage report was attached by this run."
+    },
+    {
+      "area": "text-decoration",
+      "oracle": "tools/decoration-oracle.ts",
+      "status": "passed",
+      "reportFile": "text-decoration.json"
+    },
+    {
+      "area": "borders-outlines",
+      "oracle": "tools/border-phase-oracle.ts",
+      "status": "passed",
+      "reportFile": "borders-outlines.json"
+    },
+    {
+      "area": "gradients-masks-clips",
+      "oracle": "tools/paint-geometry-oracle.ts",
+      "status": "passed",
+      "passedRows": 119,
+      "totalRows": 119,
+      "reportFile": "gradients-masks-clips.json"
+    },
+    {
+      "area": "url-background-image-geometry",
+      "oracle": "tools/url-background-geometry-audit.ts",
+      "status": "missing",
+      "note": "No stage report was attached by this run."
+    },
+    {
+      "area": "background-clip-text-paint",
+      "oracle": "tools/background-clip-text-oracle.ts",
+      "status": "missing",
+      "note": "No stage report was attached by this run."
+    },
+    {
+      "area": "native-scrollbar-layout-paint-ownership",
+      "oracle": "tools/native-scrollbar-ownership-audit.ts",
+      "status": "missing",
+      "note": "No stage report was attached by this run."
+    },
+    {
+      "area": "transforms-projection-reflection",
+      "oracle": "tools/transform-geometry-oracle.ts",
+      "status": "passed",
+      "passedRows": 11,
+      "totalRows": 11,
+      "reportFile": "transforms-projection-reflection.json"
+    },
+    {
+      "area": "animated-projective-frame-state",
+      "oracle": "tools/animated-projective-frame-oracle.ts",
+      "status": "missing",
+      "note": "No stage report was attached by this run."
+    },
+    {
+      "area": "animated-viewbox-culling",
+      "oracle": "tools/animated-culling-geometry-oracle.ts",
+      "status": "missing",
+      "note": "No stage report was attached by this run."
+    },
+    {
+      "area": "compositing-effects-paint-order",
+      "oracle": "tools/paint-order-oracle.ts",
+      "status": "passed",
+      "passedRows": 41,
+      "totalRows": 41,
+      "reportFile": "compositing-effects-paint-order.json"
+    },
+    {
+      "area": "replaced-elements-controls-generated-content",
+      "oracle": "tools/replaced-geometry-oracle.ts",
+      "status": "passed",
+      "reportFile": "replaced-elements-controls-generated-content.json"
+    },
+    {
+      "area": "raster-fallback-boundary",
+      "oracle": "tools/raster-boundary-oracle.ts",
+      "status": "failed",
+      "passedRows": 27,
+      "totalRows": 28,
+      "reportFile": "raster-fallback-boundary.json"
+    },
+    {
+      "area": "end-to-end-visual-integration",
+      "oracle": "src/review/compare-pngs.ts",
+      "status": "missing",
+      "note": "No stage report was attached by this run."
+    }
+  ],
+  "rules": [
+    {
+      "suites": [
+        "features"
+      ],
+      "fixture": "text-system-ui-cjk-fallback",
+      "transitionIds": [
+        "text.family-fallback"
+      ],
+      "areas": [
+        "font-selection",
+        "shaping-clusters-glyphs"
+      ]
+    },
+    {
+      "suites": [
+        "html-test",
+        "html-test-unicode"
+      ],
+      "transitionIds": [
+        "text.family-fallback"
+      ],
+      "areas": [
+        "font-selection",
+        "shaping-clusters-glyphs"
+      ]
+    },
+    {
+      "suites": [
+        "features"
+      ],
+      "fixture": "text-font-variant-emoji",
+      "transitionIds": [
+        "text.emoji-presentation"
+      ],
+      "areas": [
+        "font-selection",
+        "shaping-clusters-glyphs",
+        "raster-fallback-boundary"
+      ]
+    },
+    {
+      "suites": [
+        "features"
+      ],
+      "fixture": "text-rtl-in-ltr-line",
+      "transitionIds": [
+        "text.bidi-runs"
+      ],
+      "areas": [
+        "shaping-clusters-glyphs",
+        "text-layout-placement"
+      ]
+    },
+    {
+      "suites": [
+        "features"
+      ],
+      "fixture": "text-multiline",
+      "transitionIds": [
+        "text.wrapping-fragmentation"
+      ],
+      "areas": [
+        "text-layout-placement"
+      ]
+    },
+    {
+      "suites": [
+        "features"
+      ],
+      "fixture": "text-decorations",
+      "transitionIds": [
+        "text.decoration"
+      ],
+      "areas": [
+        "text-decoration"
+      ]
+    },
+    {
+      "suites": [
+        "features"
+      ],
+      "fixture": "border-styles-variants",
+      "transitionIds": [
+        "box.border-outline"
+      ],
+      "areas": [
+        "borders-outlines"
+      ]
+    },
+    {
+      "suites": [
+        "features"
+      ],
+      "fixture": "gradient-radial-negative-domain",
+      "transitionIds": [
+        "paint.gradients"
+      ],
+      "areas": [
+        "gradients-masks-clips",
+        "raster-fallback-boundary"
+      ]
+    },
+    {
+      "suites": [
+        "features"
+      ],
+      "fixture": "bg-conic-chromium-zoom-tile",
+      "transitionIds": [
+        "paint.gradients",
+        "raster.boundary-content"
+      ],
+      "areas": [
+        "end-to-end-visual-integration",
+        "gradients-masks-clips",
+        "raster-fallback-boundary"
+      ]
+    },
+    {
+      "suites": [
+        "features"
+      ],
+      "fixture": "mask-advanced-tiling-composite",
+      "transitionIds": [
+        "paint.masks-clips"
+      ],
+      "areas": [
+        "gradients-masks-clips"
+      ]
+    },
+    {
+      "suites": [
+        "features"
+      ],
+      "fixture": "clip-path-userspaceonuse-fragment",
+      "transitionIds": [
+        "paint.masks-clips"
+      ],
+      "areas": [
+        "gradients-masks-clips"
+      ]
+    },
+    {
+      "suites": [
+        "features"
+      ],
+      "fixture": "iframe-inner-clip-mask",
+      "transitionIds": [
+        "frames.iframe-recursion",
+        "paint.masks-clips"
+      ],
+      "areas": [
+        "gradients-masks-clips",
+        "raster-fallback-boundary",
+        "replaced-elements-controls-generated-content"
+      ]
+    },
+    {
+      "suites": [
+        "features"
+      ],
+      "fixture": "url-background-fragment-slice-continuation",
+      "transitionIds": [
+        "paint.url-background-image-geometry"
+      ],
+      "areas": [
+        "url-background-image-geometry"
+      ]
+    },
+    {
+      "suites": [
+        "features"
+      ],
+      "fixture": "background-clip-text-url-color-stack",
+      "transitionIds": [
+        "paint.background-clip-text"
+      ],
+      "areas": [
+        "background-clip-text-paint",
+        "url-background-image-geometry"
+      ]
+    },
+    {
+      "suites": [
+        "features"
+      ],
+      "fixture": "background-clip-text-url-inherited-stroke",
+      "transitionIds": [
+        "paint.background-clip-text"
+      ],
+      "areas": [
+        "background-clip-text-paint",
+        "url-background-image-geometry"
+      ]
+    },
+    {
+      "suites": [
+        "features"
+      ],
+      "fixture": "transform-scale-flex-descendants",
+      "transitionIds": [
+        "geometry.transforms"
+      ],
+      "areas": [
+        "transforms-projection-reflection",
+        "animated-projective-frame-state",
+        "animated-viewbox-culling",
+        "raster-fallback-boundary"
+      ]
+    },
+    {
+      "suites": [
+        "features"
+      ],
+      "fixture": "preserve-3d-translatez-paint-order",
+      "transitionIds": [
+        "geometry.transforms"
+      ],
+      "areas": [
+        "transforms-projection-reflection",
+        "animated-projective-frame-state",
+        "animated-viewbox-culling",
+        "raster-fallback-boundary"
+      ]
+    },
+    {
+      "suites": [
+        "features"
+      ],
+      "fixture": "perspective-fixed-containing-block-ownership",
+      "transitionIds": [
+        "geometry.transforms"
+      ],
+      "areas": [
+        "transforms-projection-reflection",
+        "animated-projective-frame-state",
+        "animated-viewbox-culling",
+        "raster-fallback-boundary"
+      ]
+    },
+    {
+      "suites": [
+        "features"
+      ],
+      "fixture": "z-index-order",
+      "transitionIds": [
+        "paint.stacking-compositing"
+      ],
+      "areas": [
+        "compositing-effects-paint-order"
+      ]
+    },
+    {
+      "suites": [
+        "features"
+      ],
+      "fixture": "filter-passthrough",
+      "transitionIds": [
+        "paint.stacking-compositing"
+      ],
+      "areas": [
+        "compositing-effects-paint-order"
+      ]
+    },
+    {
+      "suites": [
+        "features"
+      ],
+      "fixture": "blend-mode-passthrough",
+      "transitionIds": [
+        "paint.stacking-compositing"
+      ],
+      "areas": [
+        "compositing-effects-paint-order"
+      ]
+    },
+    {
+      "suites": [
+        "features"
+      ],
+      "fixture": "pseudo-after-badge",
+      "transitionIds": [
+        "generated.pseudo-fragment-geometry"
+      ],
+      "areas": [
+        "replaced-elements-controls-generated-content"
+      ]
+    },
+    {
+      "suites": [
+        "features"
+      ],
+      "fixture": "pseudo-before-marker-child-first-content",
+      "transitionIds": [
+        "generated.pseudo-fragment-geometry"
+      ],
+      "areas": [
+        "replaced-elements-controls-generated-content"
+      ]
+    },
+    {
+      "suites": [
+        "features"
+      ],
+      "fixture": "pseudo-after-down-caret-vertical-align",
+      "transitionIds": [
+        "generated.pseudo-fragment-geometry"
+      ],
+      "areas": [
+        "replaced-elements-controls-generated-content"
+      ]
+    },
+    {
+      "suites": [
+        "features"
+      ],
+      "fixture": "image-concrete-object-fit-position",
+      "transitionIds": [
+        "replaced.object-sizing"
+      ],
+      "areas": [
+        "replaced-elements-controls-generated-content",
+        "raster-fallback-boundary"
+      ]
+    },
+    {
+      "suites": [
+        "features"
+      ],
+      "fixture": "replaced-canvas-transformed-clip",
+      "transitionIds": [
+        "replaced.object-sizing"
+      ],
+      "areas": [
+        "replaced-elements-controls-generated-content",
+        "raster-fallback-boundary"
+      ]
+    },
+    {
+      "suites": [
+        "features"
+      ],
+      "fixture": "form-controls",
+      "transitionIds": [
+        "controls.native-ownership",
+        "controls.sampled-native-fallback-retirement"
+      ],
+      "areas": [
+        "native-scrollbar-layout-paint-ownership",
+        "raster-fallback-boundary",
+        "replaced-elements-controls-generated-content"
+      ]
+    },
+    {
+      "suites": [
+        "features"
+      ],
+      "fixture": "replaced-iframe-same-origin",
+      "transitionIds": [
+        "frames.iframe-recursion"
+      ],
+      "areas": [
+        "replaced-elements-controls-generated-content",
+        "raster-fallback-boundary"
+      ]
+    },
+    {
+      "suites": [
+        "features"
+      ],
+      "fixture": "inline-svg-effect-geometry-boxes",
+      "transitionIds": [
+        "svg.effect-reference-boxes",
+        "svg.inline-3d-transform-ownership"
+      ],
+      "areas": [
+        "gradients-masks-clips",
+        "raster-fallback-boundary",
+        "transforms-projection-reflection"
+      ]
+    },
+    {
+      "suites": [
+        "features"
+      ],
+      "fixture": "replaced-canvas-overlay",
+      "transitionIds": [
+        "raster.boundary-activation",
+        "raster.boundary-content"
+      ],
+      "areas": [
+        "end-to-end-visual-integration",
+        "raster-fallback-boundary"
+      ]
+    }
+  ]
+}
